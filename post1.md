@@ -5,16 +5,16 @@
 #### 안녕하세요? 웹코딩 잡아먹기 입니다. 블로그 포스팅은 부득이 하게 *깃허브*로 올리게 되었습니다. (markdown 사용하려고요!🤩)
 ***
 ##### 오늘은 첫 포스팅이니 html의 기본 틀 부터 알아볼게요! 
-<!doctype html>
-<html lang="ko">
- <head>
-  <meta charset = utf-8">
-  <title></title>
- </head>
- <body>
-  
- </body>
-</html>
+> <!doctype html>
+>> <html lang="ko">
+>>> <head>
+>>> <meta charset = utf-8">
+>>> <title></title>
+>> </head>
+>> <body>
+  웹페이지 내용
+>> </body>
+> </html>
 ##### 이제 이것의 뜻을 알아볼게요!
 
 ## 뜻풀이
