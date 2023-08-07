@@ -7,7 +7,7 @@ HTML이란 **Hyper Text Markup Language**의 약자로 웹페이지를 만드는
 
 ### 📋 준비물
 
-- 웹코딩 잡아먹기 **[블로그]([https://blog.naver.com/PostList.nhn?blogId=mapthecode&skinType=&skinId=&from=menu&userSelectMenu=true](https://eatwebco.netlify.app))**
+- 웹코딩 잡아먹기 **[블로그]((https://eatwebco.netlify.app))**
 - **챗 GPT**
 
 ### 💡 HTML 공부 방법
